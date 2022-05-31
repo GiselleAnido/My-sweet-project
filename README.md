@@ -40,7 +40,7 @@ sudo apt upgrade
 sudo service reload 
  ```
 
- ***Note***: _Use_ -y as an argument to accept changes.
+ ***Note***: _Use_ ```-y``` as an argument to accept changes.
 
 ### 4. Delete all the content from tmp folder
 
