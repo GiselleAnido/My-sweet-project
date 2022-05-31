@@ -64,7 +64,7 @@ sudo reboot
 
  >After this steps in Terminal, try to type ls in Terminal, Mongo shell should appear and ready to execute mongo commands
 
-You may use in terminal mongo shell, by typing in terminal:  mongosh 
+>You may use in terminal mongo shell, by typing in terminal:  mongosh 
 
 
 
