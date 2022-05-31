@@ -40,7 +40,7 @@ sudo apt upgrade
 sudo service reload 
  ```
 
- ***Note***: _Use_ ```-y``` as an argument to accept changes.
+ ***Note***: _Use_ -y as an argument to accept changes.
 
 ### 4. Delete all the content from tmp folder
 
@@ -62,16 +62,16 @@ sudo reboot
  ```
 
 
- >After this steps in Terminal, try to type ls in Terminal, Mongo shell should appear and ready to execute mongo commands
+ >After this steps in Terminal, try to type ```ls``` in Terminal, Mongo shell should appear and ready to execute mongo commands
 
->You may use in terminal mongo shell, by typing in terminal:  mongosh 
+>You may use in terminal mongo shell, by typing in terminal:  ```mongosh``` 
 
 
 
  ## Windows
 
 > Just Download the Executable file and follow the installation wizard to install it.
- Then you can see it in application menu, or you can run it in terminal by typing  My Project 
+ Then you can see it in application menu, or you can run it in terminal by typing  ```My Project``` 
 
 
 
